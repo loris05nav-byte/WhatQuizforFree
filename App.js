@@ -1,0 +1,1 @@
+export default function App(){ return <h1>WhatQuiz Vercel Frontend</h1>; }
